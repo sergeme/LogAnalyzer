@@ -1,0 +1,1 @@
+{"version":3,"file":"LogEntryRequest.js","sourceRoot":"","sources":["LogEntryRequest.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,eAAe;IAClC,MAAM,CAAS;IACf,MAAM,CAAS;IAEf,YAAY,MAAc;QACxB,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;QACrB,IAAI,CAAC,MAAM,GAAG,EAAE,CAAC;IACnB,CAAC;CACF"}
